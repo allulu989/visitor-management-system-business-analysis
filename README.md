@@ -231,7 +231,6 @@ The proposed solution is expected to:
 | BRD.pdf                    | Business Requirements Document |
 | Executive_Presentation.pdf | Executive project presentation |
 | Process_Flows.pdf          | As-Is and To-Be process flows  |
-| Dashboard_Mockup.html      | Interactive dashboard mockup   |
 
 ---
 
